@@ -1,0 +1,6 @@
+[submodule "rotten-potatoes"]
+	path = rotten-potatoes
+	url = git@github.com:adnsoa/rotten-potatoes.git
+[submodule "kube-news"]
+	path = kube-news
+	url = git@github.com:adnsoa/kube-news.git
